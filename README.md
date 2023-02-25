@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24e6ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Heytor+de+Souza.;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
+## Um pouco sobre mim... 
+- 📚 Administração na Unicarioca
+- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
+- 💻 HTML | CSS | JavaScript | TypeScript | React | Jest | Node JS | SQLite | 
+- 😄 Pronome: ele/dele
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heytordesouza&show_icons=true&count_private=true&hide_border=true&title_color=24e6ff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Heytor´s GitHub Stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heytordesouza&layout=compact&hide_border=true&title_color=24e6ff&text_color=00bfbf&bg_color=0d1117" />
@@ -19,6 +25,7 @@
     <img align="center" alt="Heytor-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
     <img align="center" alt="Heytor-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
     <img align="center" alt="Heytor-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Heytor-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
 
 <div> 
