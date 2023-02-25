@@ -7,4 +7,18 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heytordesouza&layout=compact&hide_border=true&title_color=24e6ff&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/Heytordesouza/Heytordesouza/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"><br>
+  <h2>Tecnologias e ferramentas:<h2/>
+  <img align="center" alt="Heytor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Heytor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heytor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Heytor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heytor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">   
+  <img align="center" alt="Heytor-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">   
+  <img align="center" alt="Heytor-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
+</div>
+
+<div> 
+ <h2>Contatos:<h2/>
+  <a href = "mailto:heytordesnascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/heytor-de-souza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
