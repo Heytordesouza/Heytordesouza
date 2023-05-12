@@ -4,9 +4,8 @@
 
 ## Um pouco sobre mim... 
 - 📚 Administração na Unicarioca
-- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
+- 🔭 Desenvolvedor Web Full Stack formado na Labenu 
 - 💻 HTML | CSS | JavaScript | TypeScript | React | Jest | Node JS | SQLite | 
-- 😄 Pronome: ele/dele
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heytordesouza&show_icons=true&count_private=true&hide_border=true&title_color=24e6ff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Heytor´s GitHub Stats"/>
