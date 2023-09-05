@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24e6ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Heytor+de+Souza.;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim... 
-- 📚 Estudante de Análise e Desenvolvimento de Sistema na Estácio
+- 📚 Estudante em Análise e Desenvolvimento de Sistemas pela Estácio
 - 🎓 Graduado em Administração de Empresas pela Unicarioca
-- 💻 Desenvolvedor Web Full Stack formado na Labenu 
+- 💻 Desenvolvedor Web Full Stack formado pela Labenu 
 - 👨🏻‍💻 HTML | CSS | JavaScript | TypeScript | React | Next JS | Jest | Node JS | SQLite | Firebase
 
 <div align="center">  
